@@ -1,0 +1,50 @@
+# This is a template config file
+# define your parameter and its value like:
+Messages:
+  ErrorMsg: "&c[StopCrafting] : Some error occured."
+  CannotCraft: "&c[StopCrafting] : Your are not allowed to craft %item%."
+
+HelpMessages:
+  banner:
+    msg: "=== &e[&aStopCrafting Commands List (%version%)&e] &r==="
+  help:
+    msg: "&a/stopcrafting help : displays this help menu."
+  reload:
+    msg: "&a/stopcrafting reload : reloads config file."
+    permission: "stopcrafting.reload"
+  debug:
+    msg: "&a/stopcrafting debug <true|false> : turn on / off the debug mode."
+    permission: "stopcrafting.debug"
+
+CommandAliases:
+  - "sc"
+  - "stopcraft"
+
+# this option is for the target outlet of the messages to go. Previously, they were all sent to chat.
+MessageOutlet:
+  Title: false
+  SubTitle: false
+  ActionBar: false
+  Chat: true
+
+# this warning will be displayed in resulting item's lore.
+WarningLore: "&cYou need a permission for this item."
+
+# if you encounter an issue that other plugin interfering with this plugin
+# you can adjust the event process priority here.
+EventPriorityMap:
+  InventoryClickEvent: "MONITOR"
+
+# this plugin will not work in the worlds specified in this option.
+#InvalidWorlds:
+#  - pvp
+
+BlackList:
+#  - "*"  # if '*' is specified, all items are subject of StopCrafting.
+  - HOPPER
+  - GOLDEN_APPLE:1
+  - STAINED_GLASS:*
+
+# map id listed here would be uncraftable.
+BlackListMapID:
+  - 18095

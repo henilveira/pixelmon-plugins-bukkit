@@ -1,0 +1,58 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705512351007
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705513270435
+  login: 1705512809613
+  kits:
+    lucky: 1705512044676
+    luckypixelmon: 1705512743262
+money: '0'
+last-account-name: HenriAnjos
+lastlocation:
+  world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+  world-name: world
+  x: 573.4851658607296
+  y: 65.0
+  z: 411.07418646315915
+  yaw: 3.161376953125
+  pitch: 48.76669692993164
+homes:
+  home:
+    world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+    world-name: world
+    x: 589.6999999880791
+    y: 63.0
+    z: 414.1888032813526
+    yaw: -58.79169845581055
+    pitch: 11.716628074645996
+logoutlocation:
+  world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+  world-name: world
+  x: 584.9478576584883
+  y: 59.87748931470308
+  z: 401.6364109390685
+  yaw: 191.07861328125
+  pitch: 0.7500596046447754
+mail:
+- legacy: false
+  read: false
+  message: sexooo
+  sender-name: imrickss
+  sender-uuid: 27a9dcde-6656-324b-b000-d3b1dfde5517
+  timestamp: 1705512796159
+  expire: 0

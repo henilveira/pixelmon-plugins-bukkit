@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705528172830
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705529437487
+  login: 1705528051720
+  kits:
+    lucky: 1705528365622
+money: '0'
+last-account-name: Macuruja
+lastlocation:
+  world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+  world-name: world
+  x: 323.3269220299102
+  y: 66.02442408821369
+  z: 272.2433551106648
+  yaw: 172.95794677734375
+  pitch: 20.27303695678711
+homes:
+  home:
+    world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+    world-name: world
+    x: 324.56587854946224
+    y: 64.0
+    z: 263.5217098900551
+    yaw: 152.94581604003906
+    pitch: -2.614788770675659
+logoutlocation:
+  world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+  world-name: world
+  x: 316.8771469531981
+  y: 96.0
+  z: 262.9184612813564
+  yaw: 66.2783203125
+  pitch: 41.29188537597656

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705527228721
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705527747538
+  login: 1705527030504
+money: '0'
+last-account-name: Cupido FDP
+lastlocation:
+  world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+  world-name: world
+  x: 110.2717419111298
+  y: 66.4471862570622
+  z: 1114.2521632694736
+  yaw: -57.87743377685547
+  pitch: 40.81768798828125
+logoutlocation:
+  world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+  world-name: world
+  x: 121.08525708597433
+  y: 89.93292514360773
+  z: 1089.1422264468138
+  yaw: -26.184967041015625
+  pitch: 63.699180603027344

@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705533858912
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705533952949
+  login: 1705533815061
+  kits:
+    lucky: 1705533694363
+money: '0'
+last-account-name: Alextsw13
+lastlocation:
+  world: 76f33abb-d4db-4cab-9388-515288d77f12
+  world-name: world
+  x: -420.8112927432915
+  y: 29.0
+  z: 456.15403887516425
+  yaw: 73.86144256591797
+  pitch: -0.7116124629974365
+homes:
+  home:
+    world: 76f33abb-d4db-4cab-9388-515288d77f12
+    world-name: world
+    x: -340.31247773983733
+    y: 18.0
+    z: 468.0812597620691
+    yaw: -76.80977630615234
+    pitch: 41.249000549316406
+logoutlocation:
+  world: 76f33abb-d4db-4cab-9388-515288d77f12
+  world-name: world
+  x: -305.97149861204224
+  y: 19.0
+  z: 472.59904572720086
+  yaw: -110.98028564453125
+  pitch: 9.149879455566406

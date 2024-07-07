@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: true
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705526190016
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705527007547
+  login: 1705526422878
+money: '0'
+last-account-name: Castilhosss
+logoutlocation:
+  world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+  world-name: world
+  x: 306.3243130618053
+  y: 81.63183167873457
+  z: 274.95867924071035
+  yaw: -117.38322448730469
+  pitch: -4.384737014770508
+homes:
+  home:
+    world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+    world-name: world
+    x: 569.8442282221748
+    y: 63.0
+    z: 403.95765540656555
+    yaw: 300.308349609375
+    pitch: -5.965390205383301
+lastlocation:
+  world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+  world-name: world
+  x: 156.0697254650072
+  y: 84.36548380799306
+  z: 1465.0487430833164
+  yaw: 196.21194458007812
+  pitch: 29.560354232788086
+jail: imrickss

@@ -1,0 +1,142 @@
+# Citizens NPC Storage
+
+
+
+last-created-npc-id: 2
+npc:
+  '1':
+    metadata:
+      cached-skin-uuid: 8e4c0347-cd5e-40d7-8ca3-26d6ef7c1311
+      cached-skin-uuid-name: imrickss
+    name: '&6&lKIT DIÁRIO'
+    uuid: 82ca9a96-26d9-4514-b305-4dd93f714c03
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: rAPUPi0MTBIMaleclhZaIg3NC+ff3e7a4m+jXnCxFx3FCExsYma4hPihOy36nKykz+qRU5CbRIfwYS2mRHpLQ6SN7oxfmVY9R7qW2/MKO0mo1XGkinIp6o7Z1LTY8MEP/GiqGa7M2brTX4VTsEgft9ug4StFK3xvwY7Cd8U0AfLBsFXEb7/wYpecFluBC8tFufTAXTpZvLydF7zSEcktmUigeBvlNajK9e3IT29ImL/4fLYGauE+D+fRXeb+uEYD2++zN4989EKcxmZoUzEJ1t9dJr0hBPMT/h/S2YSrON9N1YqBUNaacK5vKus4N8mEUS19it1ICrD2ENUtLT73j3w0jK3eRV7lG/BeN09odC1i2I4BM/3z9wC+WeXbu+OMnFzb1e3VPvfHl27h9G5jpFRT1MGUr0ha36Q4qfotfiXBJkNs+cqpeoQu2TvKkmHg2Fx9YttKx309RJ/phVkUZ0GuSQDWPzfI7QJWE2Yg9fjEiaz9sLVzcxeKTEJ41Tja3h13PlvH8DREbHN3M7AzmgiSOGkUT4lsTj0kDCkhBxMoZnZvFrufG9vH55W4d5T1guHPSgb1CA+ObMTM38XP2v2cVMcmOphx5qoAg6QUh4rS0FQrg0X74Pu2ZnB325KkKqRKCZOrDwZqi82hO1eMmarHtrCp5oVKPXlz6MYg1XU=
+        skinName: imrickss
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcwNTUzODIxNjkzNiwKICAicHJvZmlsZUlkIiA6ICI4ZTRjMDM0N2NkNWU0MGQ3OGNhMzI2ZDZlZjdjMTMxMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbXJpY2tzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNzJlYjZjNmZkYzA1MDRhNWZlYmMyMzEwN2RjZWU0NTIxNGY0Nzg1MTU5MDQxNjY2ZWFjNDZmMjYyYjMxNTkzIgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      spawned: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: kit lucky
+            hand: RIGHT
+            player: false
+            op: false
+            cooldown: 86700
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+        cooldowns:
+          8e4c0347-cd5e-40d7-8ca3-26d6ef7c1311:
+            lastUsed:
+              a2l0IGx1Y2t5: 1705538388
+            lastUsedId: 0
+      type: PLAYER
+      location:
+        bodyYaw: -157.56943
+        world: world
+        x: '-417.51'
+        y: '29.0'
+        z: '463.2554'
+        yaw: '-157.5694'
+        pitch: '-5.8945'
+      owner:
+        uuid: 8e4c0347-cd5e-40d7-8ca3-26d6ef7c1311
+    traitnames: inventory,rotationtrait,lookclose,commandtrait,skintrait,scoreboardtrait,location,owner,type,spawned,mounttrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '0':
+    metadata:
+      cached-skin-uuid: 8487baff-ca73-4770-a246-1446a66a7735
+      cached-skin-uuid-name: pixelmon
+    name: '&c&lPIXELMON'
+    uuid: bb377557-f2d3-44bc-8ca6-36f5068f6ff7
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: BAoljha1HW1DMA61HlMtOmV6ZEZh+Y27rUfwBvKdIIFgMrTANG0i5GBxo3GKh/6sjsp0yceDIblirFtIfa9Ve9iLCE+IOPZDjcVy8MPPHKVMEq7eoYsDwlCDu876eZbRt4Ixka0PYyF6WFfKxI1OsTLxYqqgWBQwcHq3H9VU7y2HBGSxDzOa+0iQY8rl3oziwo0jvTatXSXEIuGXPJYWOTmUofa9tgrNkjp7IKo6qtK0Te6MVF7A6t/8Qr+xeSOZBxCHyWZ12MANITid4vq8l9AzzcyQC/iO8n10THd8aBwSWksEWaEzaZsW8WuyMl/WqtKZ7NhqD0j5slH7Zt9dENNSs2N6RFJ+aexNxCN7kqZj65N/gNXipoR867IRKnRHNygBcz2fu2gyAJTiziWBK95HaxIrwX/KutSgYS/Zaop7akgcj0TNyyIIivu+ytbdhHlzL7uHUszuO8seG0e58NMAVlQvOwonCUXackXPagPS9XfElXoxIvosHjtvNEFJMcjbMGi6re7Ua9RGKPJ1P9hYEsY0UrnDeAuPV+oW/Bp9AEdj8RDbBr3WvzXvxjR2+9JDMF+AEXD3NfNO/P1kSwkYtyhJ2xRe0dk7mvtXJOJNPmDWDPzVW03r7QYEmVZtFou+4T64kgdTwiWqHivfqCJMev777I+eYOTBJU0UVuo=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcwNTUzODEyMDA0MywKICAicHJvZmlsZUlkIiA6ICI4NDg3YmFmZmNhNzM0NzcwYTI0NjE0NDZhNjZhNzczNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQaXhlbG1vbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMjdkNzAzZGQxNjc3YmQzZDE2YWFlZTY2YzhmOWE2NDAzY2E3MzMxYzA3NDhjN2MxYzhjODBjOTUwMDI5YjA2IgogICAgfQogIH0KfQ==
+        updateSkins: false
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      spawned: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '1':
+            command: server pixelmon
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      type: PLAYER
+      location:
+        bodyYaw: 126.97824
+        world: world
+        x: '-410.7516'
+        y: '29.0'
+        z: '456.4185'
+        yaw: '146.9782'
+        pitch: '0.0'
+      owner:
+        uuid: 8e4c0347-cd5e-40d7-8ca3-26d6ef7c1311
+    traitnames: inventory,rotationtrait,lookclose,commandtrait,skintrait,scoreboardtrait,location,owner,type,spawned,mounttrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false

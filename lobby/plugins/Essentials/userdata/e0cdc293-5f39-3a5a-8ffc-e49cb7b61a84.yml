@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705512458564
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705512965435
+  login: 1705512658803
+  kits:
+    lucky: 1705512722072
+    luckypixelmon: 1705512736525
+money: '0'
+last-account-name: akin0r3
+logoutlocation:
+  world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+  world-name: world
+  x: 573.7695545918984
+  y: 64.0
+  z: 409.30000001192093
+  yaw: -185.1463623046875
+  pitch: 33.21995162963867
+lastlocation:
+  world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+  world-name: world
+  x: 571.866951706739
+  y: 64.0
+  z: 415.0359031340074
+  yaw: -160.83416748046875
+  pitch: -5.639804840087891
+homes:
+  home:
+    world: 0bd464cb-b073-46fa-8f8e-22c30a507dad
+    world-name: world
+    x: 569.2772994933431
+    y: 63.0
+    z: 403.2322912358095
+    yaw: 106.5462875366211
+    pitch: 14.750360488891602
